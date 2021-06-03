@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "models": {
+      "commandName": "Project"
+    },
+    "newProfile1": {
+      "commandName": "Project"
+    },
+    "StoreUI": {
+      "commandName": "Executable"
+    }
+  }
+}

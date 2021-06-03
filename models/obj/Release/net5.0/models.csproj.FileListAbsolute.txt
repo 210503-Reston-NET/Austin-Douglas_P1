@@ -1,0 +1,12 @@
+C:\Revature\Austin-Douglas-P1\models\bin\Release\net5.0\models.deps.json
+C:\Revature\Austin-Douglas-P1\models\bin\Release\net5.0\models.dll
+C:\Revature\Austin-Douglas-P1\models\bin\Release\net5.0\ref\models.dll
+C:\Revature\Austin-Douglas-P1\models\bin\Release\net5.0\models.pdb
+C:\Revature\Austin-Douglas-P1\models\obj\Release\net5.0\models.csprojAssemblyReference.cache
+C:\Revature\Austin-Douglas-P1\models\obj\Release\net5.0\models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature\Austin-Douglas-P1\models\obj\Release\net5.0\models.AssemblyInfoInputs.cache
+C:\Revature\Austin-Douglas-P1\models\obj\Release\net5.0\models.AssemblyInfo.cs
+C:\Revature\Austin-Douglas-P1\models\obj\Release\net5.0\models.csproj.CoreCompileInputs.cache
+C:\Revature\Austin-Douglas-P1\models\obj\Release\net5.0\models.dll
+C:\Revature\Austin-Douglas-P1\models\obj\Release\net5.0\ref\models.dll
+C:\Revature\Austin-Douglas-P1\models\obj\Release\net5.0\models.pdb

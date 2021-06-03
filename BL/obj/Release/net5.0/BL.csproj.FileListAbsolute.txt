@@ -1,0 +1,17 @@
+C:\Revature\Austin-Douglas-P1\BL\bin\Release\net5.0\BL.deps.json
+C:\Revature\Austin-Douglas-P1\BL\bin\Release\net5.0\BL.dll
+C:\Revature\Austin-Douglas-P1\BL\bin\Release\net5.0\ref\BL.dll
+C:\Revature\Austin-Douglas-P1\BL\bin\Release\net5.0\BL.pdb
+C:\Revature\Austin-Douglas-P1\BL\bin\Release\net5.0\DL.dll
+C:\Revature\Austin-Douglas-P1\BL\bin\Release\net5.0\models.dll
+C:\Revature\Austin-Douglas-P1\BL\bin\Release\net5.0\models.pdb
+C:\Revature\Austin-Douglas-P1\BL\bin\Release\net5.0\DL.pdb
+C:\Revature\Austin-Douglas-P1\BL\obj\Release\net5.0\BL.csprojAssemblyReference.cache
+C:\Revature\Austin-Douglas-P1\BL\obj\Release\net5.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature\Austin-Douglas-P1\BL\obj\Release\net5.0\BL.AssemblyInfoInputs.cache
+C:\Revature\Austin-Douglas-P1\BL\obj\Release\net5.0\BL.AssemblyInfo.cs
+C:\Revature\Austin-Douglas-P1\BL\obj\Release\net5.0\BL.csproj.CoreCompileInputs.cache
+C:\Revature\Austin-Douglas-P1\BL\obj\Release\net5.0\BL.csproj.CopyComplete
+C:\Revature\Austin-Douglas-P1\BL\obj\Release\net5.0\BL.dll
+C:\Revature\Austin-Douglas-P1\BL\obj\Release\net5.0\ref\BL.dll
+C:\Revature\Austin-Douglas-P1\BL\obj\Release\net5.0\BL.pdb
